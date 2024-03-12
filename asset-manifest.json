@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ivaibhavraheja/dic-speech/static/css/main.3cb5fa93.css",
+    "main.js": "/ivaibhavraheja/dic-speech/static/js/main.fe88e646.js",
+    "static/media/microphone.avif": "/ivaibhavraheja/dic-speech/static/media/microphone.d985bc33f0019526d3ce.avif",
+    "static/media/download.jpeg": "/ivaibhavraheja/dic-speech/static/media/download.a426802a21b3b7d9c60f.jpeg",
+    "index.html": "/ivaibhavraheja/dic-speech/index.html",
+    "main.3cb5fa93.css.map": "/ivaibhavraheja/dic-speech/static/css/main.3cb5fa93.css.map",
+    "main.fe88e646.js.map": "/ivaibhavraheja/dic-speech/static/js/main.fe88e646.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3cb5fa93.css",
+    "static/js/main.fe88e646.js"
+  ]
+}
