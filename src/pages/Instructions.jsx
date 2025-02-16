@@ -30,12 +30,14 @@ const InstructionPage = () => {
                 <h2 className="text-xl font-semibold mb-4 text-gray-800">Instructions:</h2>
                 <ol className="list-decimal ml-6 text-gray-700 text-lg">
                     <li className="mb-2">Select a particular language first and then start recording.</li>
+                    <li className="mb-2">Try test runs with 2 or 3 sentences to ensure your mic and audio are recording clearly.</li>
                     <li className="mb-2">Complete all sentences in a chosen language before switching to another.</li>
                     <li className="mb-2">Download all recordings as a single file when finished.</li>
                     <li className="mb-2">Try to record all 18 sentences in all 3 languages.</li>
                     <li className="mb-2">After recording sentences in one language, switch to another language from the dropdown menu. If the recording buttons are disabled after switching, press reset to enable them.</li>
                     <li className="mb-2">If your native language isn't among the 3 provided, you can record in your native language under the 'Other Language' tab.</li>
-                    <li className="mb-2">If you encounter issues with recordings on the home page, consider navigating to the 'Record' page for recording.</li>
+                    <li className="mb-2">Make sure all files are recorded properly. If some files are not recorded correctly, please record them again.</li>
+                    <li className="mb-2">After recording in all languages, submit a combined .ZIP file containing all the folders of the recorded languages.</li>
                 </ol>
                 <div className="mt-8 flex flex-col sm:flex-row justify-between items-center">
                     <button onClick={handleGoBack} className="mb-4 sm:mb-0 w-full sm:w-auto px-4 py-2 bg-blue-500 text-white rounded hover:bg-blue-600 focus:outline-none focus:ring-2 focus:ring-blue-400">
